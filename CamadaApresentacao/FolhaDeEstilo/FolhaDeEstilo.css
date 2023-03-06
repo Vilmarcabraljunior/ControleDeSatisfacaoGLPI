@@ -1,0 +1,15 @@
+﻿body {
+    background-color:gainsboro;
+}
+
+.Borda {
+    border: 1px double black;
+}
+
+.CorMenu {
+    color: blue;
+}
+
+.botaoAmarelo {
+    background-color: yellow;
+}
